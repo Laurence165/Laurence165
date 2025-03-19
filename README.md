@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Laurence165/Laurence165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on completing my computer science specialist at the University of Toronto
@@ -12,4 +9,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about exciting projects/ideas brewing in my head
 - 📫 How to reach me: Connect with me at https://www.linkedin.com/in/laurence-liu-745616230/!
 - ⚡ Fun fact: Outside of tech, I'm a bboy and love dance and music
--->
