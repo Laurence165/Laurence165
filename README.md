@@ -10,8 +10,11 @@ ABOUT ME:
 - ⚡ Fun fact: Outside of tech, I'm a bboy and love dance and music
 
 TECH SKILLS:
-🔸 FrontEnd - HTML, CSS, Javascript, React JS, Typescript, Tailwind CSS, PHP
-🔸 BackEnd - Python, Java, Node.js, Javascript
-🔸 DBMS - MySQL, SQLite, Postgresql
-🔸 DevOps - Docker, Git, Github
-🔸 Low-Level & Systems Programming - C, Assembly, C++, Bash, SQL, shell scripting, Linux
+- FrontEnd - HTML, CSS, Javascript, React JS, Typescript, Tailwind CSS, PHP
+- BackEnd - Python, Java, Node.js, Javascript
+- DBMS - MySQL, SQLite, Postgresql
+- DevOps - Docker, Git, Github
+- Low-Level & Systems Programming - C, Assembly, C++, Bash, SQL, shell scripting, Linux
+- ML & AI Tools - TensorFlow, PyTorch, Scikit-learn
+- Data Processing & Feature Engineering - NumPy, Pandas
+- AI for Games & Simulations - Pathfinding, State Evaluation
