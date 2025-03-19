@@ -17,4 +17,4 @@ TECH SKILLS:
 - Low-Level & Systems Programming - C, Assembly, C++, Bash, SQL, shell scripting, Linux
 - ML & AI Tools - TensorFlow, PyTorch, Scikit-learn
 - Data Processing & Feature Engineering - NumPy, Pandas
-- AI for Games & Simulations - Pathfinding, State Evaluation
+- AI - Pathfinding, State Evaluation
