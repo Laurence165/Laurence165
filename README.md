@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 ABOUT ME:
+- Open Source Contributor on Free Code Camp
 - 🔭 I’m currently working on completing my computer science specialist at the University of Toronto
 - 🌱 I’m currently learning Web development and AI/ML
 - 👯 I’m looking to collaborate on exciting projects that people will love
@@ -19,6 +20,4 @@ TECH SKILLS:
 - Data Processing & Feature Engineering - NumPy, Pandas
 - AI - Pathfinding, State Evaluation
 
-Open-Source
 
-Make open source contributions 
