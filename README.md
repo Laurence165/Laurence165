@@ -18,3 +18,7 @@ TECH SKILLS:
 - ML & AI Tools - TensorFlow, PyTorch, Scikit-learn
 - Data Processing & Feature Engineering - NumPy, Pandas
 - AI - Pathfinding, State Evaluation
+
+Open-Source
+
+Make open source contributions 
